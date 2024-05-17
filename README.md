@@ -4,7 +4,7 @@ _part_1_mars_news.ipynb_
 This code goes to "https://static.bc-edx.com/data/web/mars_news/index.html" and summarizes the articales listed on this site.  The saves the information in a Python list of dictionaries.
 
 _part_2_mars_news.ipynb_
-This code anylizes the Mars Temperature Data table at "https://static.bc-edx.com/data/web/mars_facts/temperature.html".  It looks at the temperatures, and atmospheric pressure on Mars by Martian months.  Finally, the Martian year is compared to the Earth year.  All the data pulled was save to _mars_temperature_data.csv._
+This code anylizes the Mars Temperature Data table at "https://static.bc-edx.com/data/web/mars_facts/temperature.html".  It looks at the temperatures, and atmospheric pressure on Mars by Martian months.  Finally, the Martian year is compared to the Earth year.  All the data pulled is save to _mars_temperature_data.csv._
 
 
 
